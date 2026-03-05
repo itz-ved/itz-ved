@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Ved
 
-<!--
-**itz-ved/itz-ved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer passionate about building scalable backend systems and microservice architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### Backend
+
+Java • Spring Boot • REST APIs • Microservices
+
+### Databases
+
+PostgreSQL • Redis • SQL
+
+### Dev Tools
+
+Git • GitHub • Docker • Linux • Maven
+
+### Currently Learning
+
+Distributed Systems • System Design
+
+---
+
+## 🚀 Projects
+
+**Smart Appointment System**
+Multi-domain appointment booking and queue management platform.
+
+**AI DevOps Platform (In Progress)**
+A system for log ingestion and automated analysis to help developers debug faster.
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=itz-ved\&show_icons=true)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-ved\&layout=compact)
+
+---
+
+## 📫 Contact
+
+Email: [mishraved492@gmail.com](mailto:mishraved492@gmail.com)
